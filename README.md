@@ -1,11 +1,6 @@
-### Hi there 👋
-
+### Hi there, I am Yong Sheng 👋
 <!-- README.md -->
-<link rel="stylesheet" type="text/css" href="styles.css">
 <div class="image-container">
-  <a href="https://roadmap.sh">
-    <img src="https://api.roadmap.sh/v1-badge/tall/64ec200db128dce3cb81fc6c?variant=dark&roadmaps=sql%2Cpython%2Cai-data-scientist%2Cprompt-engineering" alt="badge1-roadmap.sh"/>
-  </a>
   <a href="https://roadmap.sh">
     <img src="https://api.roadmap.sh/v1-badge/wide/64ec200db128dce3cb81fc6c?variant=dark&roadmaps=sql%2Cpython%2Cai-data-scientist%2Cprompt-engineering" alt="badge2-roadmap.sh"/>
   </a>
