@@ -6,8 +6,20 @@
 🔭 I’m currently working on ...
 
 📖 I'm currently learning...
-- [Certified Associate in Business Analytics - TalentLabs](https://github.com/tan-yong-sheng/business_analytics)
-- 
+
+-------------------------------------------------------------------------------------
+| Programme      | Provider         | Period         |  Certificate |
+--------------------------------------------------------------------------------------
+|[Certified Associate in Business Analytics](https://github.com/tan-yong-sheng/business_analytics)| [TalentLabs](https://talentlabs.org/) | 1 Sep - 31 Dec 2023 |  |
+
+
+
+
+🎯 Roadmap:
+-----------------
+My next roadmap is to become an aspiring data analyst.
+
+![Yong Sheng's Roadmap](https://api.roadmap.sh/v1-badge/wide/64ec200db128dce3cb81fc6c?variant=dark&roadmaps=sql%2Cpython%2Cai-data-scientist%2Cprompt-engineering)
 
 
 📈 Statistics:
@@ -20,11 +32,6 @@
 </a>
 
 
-🎯 Roadmap:
------------------
-My next roadmap is to become an aspiring data analyst.
-
-![Yong Sheng's Roadmap](https://api.roadmap.sh/v1-badge/wide/64ec200db128dce3cb81fc6c?variant=dark&roadmaps=sql%2Cpython%2Cai-data-scientist%2Cprompt-engineering)
 
 
 
