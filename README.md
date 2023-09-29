@@ -7,9 +7,9 @@
 
 📖 I'm currently learning...
 
--------------------------------------------------------------------------------------
+
 | Programme      | Provider         | Period         |  Certificate |
---------------------------------------------------------------------------------------
+|----------------|------------------|----------------|--------------|
 |[Certified Associate in Business Analytics](https://github.com/tan-yong-sheng/business_analytics)| [TalentLabs](https://talentlabs.org/) | 1 Sep - 31 Dec 2023 |  |
 
 
