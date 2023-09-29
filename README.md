@@ -3,7 +3,7 @@
 
 **A little introduction about me:**
 - Marketing executive at ShareInvestor
-- Proficient in ChatGPT copywriting, Mailchimp campaigns, and Python automation
+- Proficient in ChatGPT copywriting, Mailchimp campaigns, Google Analytics and Python automation
 - Aspiring business analyst with a passion for data-driven insights and strategic evaluation
 
 📖 I'm currently learning...
