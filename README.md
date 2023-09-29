@@ -3,7 +3,9 @@
 
 **A little introduction about me:**
 
-🔭 I’m currently working on ...
+| I am currently a marketing executive at ShareInvestor. I excel in leveraging various tools to streamline and enhance my work. From crafting compelling marketing copy using ChatGPT to executing targeted email campaigns with Mailchimp, I also employ my coding skills, primarily in Python, to automate task workflows.
+
+Eager to transition into the role of a business analyst, I am driven by a passion for data-driven insights and the strategic evaluation of business processes.
 
 📖 I'm currently learning...
 
