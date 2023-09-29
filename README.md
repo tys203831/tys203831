@@ -1,9 +1,9 @@
 ✨ Hi there, I am Yong Sheng 👋✨
 ----------------
 
-A little introduction about me:
+**A little introduction about me:**
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 
 📖 I'm currently learning...
 - [Certified Associate in Business Analytics - TalentLabs](https://github.com/tan-yong-sheng/business_analytics)
