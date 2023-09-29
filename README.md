@@ -7,11 +7,14 @@
 
 📖 I'm currently learning...
 
+| Programme      | Provider         | Period         |  Certificate |    Objective   |
+|----------------|------------------|----------------|--------------|----------------|
+|[Certified Associate in Business Analytics](https://github.com/tan-yong-sheng/business_analytics)| [TalentLabs](https://talentlabs.org/) | Sep 2023 - Dec 2023 |  |        |
+|[Excel: Mother of Business Intelligence](https://www.linkedin.com/posts/tan-yong-sheng_data-dataanalyst-excel-activity-7081231646946988032-zD6r?utm_source=share&utm_medium=member_desktop) | [Codebasics](https://codebasics.io/) | Jun 2023 - Jul 2023 | [Attached](https://codebasics.io/certificate/CB-51-84106) |       |
+| Getting Started With Python for Quant Finance | [Pyquantnews](https://gettingstartedwithpythonforquantfinance.com/) |       March 2023 - May 2023  |              |   |
+ 
 
-| Programme      | Provider         | Period         |  Certificate |
-|----------------|------------------|----------------|--------------|
-|[Certified Associate in Business Analytics](https://github.com/tan-yong-sheng/business_analytics)| [TalentLabs](https://talentlabs.org/) | Sep 2023 - Dec 2023 |  |
-|[Excel: Mother of Business Intelligence](https://www.linkedin.com/posts/tan-yong-sheng_data-dataanalyst-excel-activity-7081231646946988032-zD6r?utm_source=share&utm_medium=member_desktop) | [Codebasics](https://codebasics.io/) | Jun 2023 - Jul 2023 | [Attached](https://codebasics.io/certificate/CB-51-84106)
+📫 How to reach me: tys203831@gmail.com
 
 🎯 Roadmap:
 -----------------
