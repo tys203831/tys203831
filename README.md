@@ -3,11 +3,13 @@
 
 ### Hi there, I am Yong Sheng 👋
 -----------------------------------
+
 ** A little introduction about me: **
 - 
 
 
--------------------------------------
+----------------
+
 📈 **Statistics:**
 
 <a href="https://github.com/tan-yong-sheng/github-readme-stats">
@@ -17,7 +19,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-yong-sheng&layout=compact&langs_count=8&card_width=320" />
 </a>
 
----------------------------------------
+-----------------
+
 🎯 **Roadmap:**
 My next roadmap is to become an aspiring data analyst.
 
