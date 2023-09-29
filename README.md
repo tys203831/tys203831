@@ -2,6 +2,14 @@
 ----------------
 
 ### Hi there, I am Yong Sheng 👋
+-----------------------------------
+** A little introduction about me: **
+- 
+
+
+[![Yong Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan-yong-sheng)](https://github.com/tan-yong-sheng/github-readme-stats)
+
+
 <!-- README.md -->
 <div class="image-container">
   <a href="https://roadmap.sh">
