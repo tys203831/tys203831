@@ -1,8 +1,5 @@
-✨ Welcome to my GitHub page ✨
+✨ Hi there, I am Yong Sheng 👋✨
 ----------------
-
-### Hi there, I am Yong Sheng 👋
------------------------------------
 
 **A little introduction about me:**
 - 
