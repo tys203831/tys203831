@@ -1,4 +1,4 @@
-✨ ## Welcome to my GitHub page ✨
+✨ Welcome to my GitHub page ✨
 ----------------
 
 ### Hi there, I am Yong Sheng 👋
