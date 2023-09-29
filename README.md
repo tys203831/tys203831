@@ -14,6 +14,14 @@
 
 [![Yong Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan-yong-sheng)](https://github.com/tan-yong-sheng/github-readme-stats)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tan-yong-sheng&layout=compact)
 
+<a href="https://github.com/tan-yong-sheng/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tan-yong-sheng" />
+</a>
+<a href="https://github.com/tan-yong-sheng/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tan-yong-sheng&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 <!--
 **tys203831/tys203831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
