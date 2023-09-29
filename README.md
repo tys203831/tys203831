@@ -6,16 +6,20 @@
 ** A little introduction about me: **
 - 
 
-
-[![Yong Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan-yong-sheng)](https://github.com/tan-yong-sheng/github-readme-stats)
-
-
 <!-- README.md -->
 <div class="image-container">
   <a href="https://roadmap.sh">
     <img src="https://api.roadmap.sh/v1-badge/wide/64ec200db128dce3cb81fc6c?variant=dark&roadmaps=sql%2Cpython%2Cai-data-scientist%2Cprompt-engineering" alt="badge2-roadmap.sh"/>
   </a>
 </div>
+
+
+-------------------------------------
+📈 Statistics: 
+[![Yong Sheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan-yong-sheng)](https://github.com/tan-yong-sheng/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tan-yong-sheng)](https://github.com/tan-yong-sheng/github-readme-stats)
+
 
 <!--
 **tys203831/tys203831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
