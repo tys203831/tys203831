@@ -19,7 +19,7 @@
 My next roadmap is to become an aspiring data analyst.
 
 ![Yong Sheng's Roadmap](https://api.roadmap.sh/v1-badge/wide/64ec200db128dce3cb81fc6c?variant=dark&roadmaps=sql%2Cpython%2Cai-data-scientist%2Cprompt-engineering)
-
+[![Yong Sheng's Roadmap](https://api.roadmap.sh/v1-badge/wide/64ec200db128dce3cb81fc6c?variant=light)](https://roadmap.sh)
 
 📈 Statistics:
 ----------------
