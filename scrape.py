@@ -1,11 +1,11 @@
-# scrape blog from tanyongsheng.net 
+# scrape blog from tanyongsheng.com 
 # idea: combine with github actions to update README.md file with new blog article release
 
 import requests
 from urllib.parse import urljoin
 from datetime import datetime
 
-blog_url = "https://tanyongsheng.net"
+blog_url = "https://tanyongsheng.com"
 response = requests.get(urljoin(blog_url, "/wp-json/wp/v2/posts/"))
 data = response.json()
 
